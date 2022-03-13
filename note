@@ -1,0 +1,78 @@
+
+
+
+                    Server Creation - using Express
+
+
+
+            1. Create folder for Server
+
+            2. Create package.json -command :npm init
+
+            3. install express(framework)- command : npm i express
+
+            4. create index.js
+
+            5. import express to index.js
+
+            6. create app using express
+
+            7. set port number for Server
+
+            8. To run server : command- node index.js
+
+            9. Resolve API - syntax : express-app.httpMethod(path,callback function)
+
+
+            10. install nodemon : npm i -g nodemon
+
+
+            11. JWT token - To validate the user
+
+                1. install jsonwebtoken - npm i jsonwebtoken
+                2. import jsonwebtoken
+
+                         11.1 Token Generation - sign({},secretkey)
+
+                         11.2 Token Validate
+        
+            12. Middleware - 
+
+                12.1 Application specific
+
+                12.2 Router Specific
+
+            13.Mongo DB - Connection
+
+                13.1 Install mongoose : npm i mongoose
+
+                13.2 create db.js
+
+                13.3 Import mongoose
+
+                13.4 state connection string
+
+                13.5 Create model
+
+                13.6 export model
+
+            14. Asynchronous event - Promise- (resolve)
+
+                14.1 Resolve state - then()
+
+                14.2 Reject state - catch()
+
+            15. CORS - CROSS ORGIN RESOURCE SHARING
+
+                15.1 install cors - npm i cors
+
+                15.2 Import cors
+
+                
+
+
+                
+
+                
+
+            
